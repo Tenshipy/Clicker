@@ -1,0 +1,6 @@
+.DS_Store
+*.exe
+/venv
+/.idea
+Version1.py
+Version_3.py
